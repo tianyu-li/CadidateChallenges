@@ -1,7 +1,5 @@
 ### **Candidate Challenge Instructions - Submission Process**  
 
-Hi [Candidate's Name],  
-
 Thank you for your interest in the **Data Engineering II** position. Below are the instructions to complete and submit the Power BI / Jupyter Notebook challenge.
 
 ---
