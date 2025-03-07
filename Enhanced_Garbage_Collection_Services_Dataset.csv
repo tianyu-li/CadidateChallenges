@@ -1,0 +1,201 @@
+Service_ID,Customer_Type,Service_Type,Location,Waste_Type,Service_Cost,Service_Date,Collection_Time_Minutes,Request_Count,Customer_ID,Customer_Name,Email,Phone_Number
+SVC0001,Government,Recycling,Boston,Metal,315.63,2024-01-01,127,3,CUST0001,John Brown,david.jones@example.com,(533)-140-6699
+SVC0002,Residential,Recycling,New York,Metal,171.51,2024-01-02,156,1,CUST0002,Sarah Miller,emily.garcia@example.com,(345)-596-9258
+SVC0003,Enterprise,Industrial Waste,Chicago,Metal,94.76,2024/01/03,65,3,CUST0003,,emily.garcia@example.com,1711-882-)532(
+SVC0004,Residential,Commercial Pickup,Chicago,Mixed Waste,679.26,2024-01-04,86,1,CUST0004,Sarah Davis,,(798)-727-3139
+SVC0005,Enterprise,Residential Pickup,Denver,Plastic,800.74,2024-01-05,40,2,CUST0005,,sarah.brown@example.com,(750)-793-3779
+SVC0006,Government,Commercial Pickup,Denver,Organic,387.38,2024-01-06,19,3,CUST0006,Sarah Brown,john.smith@example.com,(481)-320-8455
+SVC0007,Residential,Residential Pickup,Seattle,Plastic,576.43,2024-01-07,48,4,CUST0007,John Miller,john.smith@example.com,(311)-977-9271
+SVC0008,Enterprise,Industrial Waste,Chicago,Paper,742.16,2024-01-08,140,4,CUST0008,Michael Davis,michael.williams@example.com,(153)-610-7158
+SVC0009,Small Business,Industrial Waste,Chicago,Plastic,453.06,2024-01-09,91,1,CUST0009,Emily Martinez,michael.williams@example.com,(518)-926-8844
+SVC0010,Residential,Residential Pickup,Houston,Glass,56.31,2024-01-10,127,5,CUST0010,Jane Brown,sarah.brown@example.com,(153)-610-7158
+SVC0011,Residential,Industrial Waste,Miami,Paper,877.72,2024/01/11,78,3,CUST0011,Robert Martinez,emily.garcia@example.com,(398)-322-9809
+SVC0012,Government,Commercial Pickup,New York,Glass,195.42,2024-01-12,19,3,CUST0012,Jane Smith,michael.williams@example.com,(556)-377-9286
+SVC0013,Residential,Industrial Waste,Seattle,Organic,970.2,2024-01-13,132,4,CUST0013,John Miller,james.rodriguez@example.com,(160)-402-5917
+SVC0014,Government,Recycling,Miami,Mixed Waste,390.36,2024-01-14,124,4,CUST0014,Michael Smith,linda.davis@example.com,(499)-263-5579
+SVC0015,Small Business,Recycling,Denver,Plastic,713.34,2024-01-15,170,1,CUST0015,Linda Rodriguez,patricia.martinez@example.com,(518)-553-4163
+SVC0016,Residential,Recycling,Miami,Metal,322.75,2024-01-16,89,2,CUST0016,John Garcia,moc.elpmaxe@smailliw.leahcim,(500)-551-4573
+SVC0017,Small Business,Industrial Waste,Houston,Mixed Waste,637.95,2024-01-17,169,1,CUST0017,Robert Williams,patricia.martinez@example.com,(235)-288-1171
+SVC0018,Government,Recycling,Seattle,Plastic,791.96,2024-01-18,32,1,CUST0018,Linda Rodriguez,,(359)-916-4837
+SVC0019,Residential,Residential Pickup,Seattle,Metal,797.65,2024-01-19,16,2,CUST0019,James Martinez,john.smith@example.com,(685)-812-1746
+SVC0020,Government,Residential Pickup,Los Angeles,Paper,252.98,2024-01-20,44,3,CUST0020,Robert Brown,john.smith@example.com,(573)-826-1930
+SVC0021,Enterprise,Industrial Waste,Chicago,Glass,889.11,2024-01-21,57,1,CUST0021,James Brown,david.jones@example.com,(699)-909-8715
+SVC0022,Government,Bulk Waste,New York,Mixed Waste,915.54,2024-01-22,103,1,CUST0022,John Rodriguez,linda.davis@example.com,
+SVC0023,Small Business,Bulk Waste,Denver,Metal,454.45,2024/01/23,112,4,CUST0023,Patricia Jones,emily.garcia@example.com,8803-709-)693(
+SVC0024,Government,Recycling,Denver,Metal,454.36,2024-01-24,58,3,CUST0024,Emily Rodriguez,david.jones@example.com,(345)-596-9258
+SVC0025,Government,Bulk Waste,Boston,Mixed Waste,733.03,2024-01-25,150,4,CUST0025,Emily Johnson,robert.miller@example.com,(845)-966-2917
+SVC0026,Residential,Bulk Waste,New York,Plastic,415.55,2024-01-26,138,4,CUST0026,,emily.garcia@example.com,(852)-882-1288
+SVC0027,Small Business,Industrial Waste,Chicago,Plastic,795.08,2024/01/27,142,3,CUST0027,,john.smith@example.com,(544)-213-1100
+SVC0028,Enterprise,Bulk Waste,Los Angeles,Plastic,596.97,2024-01-28,142,2,CUST0028,John Williams,emily.garcia@example.com,(584)-968-3360
+SVC0029,Enterprise,Residential Pickup,Los Angeles,Glass,770.4,2024-01-29,59,5,CUST0029,Sarah Miller,moc.elpmaxe@sivad.adnil,(734)-900-8194
+SVC0030,Residential,Commercial Pickup,Los Angeles,Mixed Waste,387.22,2024-01-30,137,5,CUST0030,Emily Davis,david.jones@example.com,(986)-517-7678
+SVC0031,Residential,Commercial Pickup,Chicago,Plastic,175.72,2024-01-31,47,2,CUST0031,John Johnson,michael.williams@example.com,(240)-708-6594
+SVC0032,Enterprise,Bulk Waste,Boston,Glass,67.0,2024-02-01,102,4,CUST0032,Michael Johnson,james.rodriguez@example.com,(191)-444-8824
+SVC0033,Enterprise,Commercial Pickup,Chicago,Mixed Waste,469.93,2024-02-02,130,2,CUST0033,John Davis,robert.miller@example.com,(131)-336-1324
+SVC0034,Residential,Recycling,Chicago,Paper,914.42,2024-02-03,148,3,CUST0034,Linda Williams,jane.johnson@example.com,(311)-977-9271
+SVC0035,Government,Commercial Pickup,Chicago,Plastic,652.51,2024-02-04,83,5,CUST0035,Linda Williams,james.rodriguez@example.com,(370)-527-8622
+SVC0036,Residential,Recycling,Los Angeles,Metal,140.08,2024-02-05,105,5,CUST0036,James Williams,jane.johnson@example.com,(704)-108-4402
+SVC0037,Enterprise,Commercial Pickup,Boston,Metal,975.94,2024/02/06,20,2,CUST0037,Emily Martinez,robert.miller@example.com,(642)-320-3050
+SVC0038,Government,Industrial Waste,Miami,Paper,554.88,2024-02-07,33,4,CUST0038,John Davis,,
+SVC0039,Government,Recycling,Denver,Metal,360.85,2024-02-08,165,2,CUST0039,David Smith,sarah.brown@example.com,(657)-261-6855
+SVC0040,Small Business,Bulk Waste,Denver,Metal,51.1,2024-02-09,162,2,CUST0040,David Jones,patricia.martinez@example.com,(552)-576-5734
+SVC0041,Small Business,Recycling,Denver,Metal,469.29,2024-02-10,106,2,CUST0041,John Rodriguez,patricia.martinez@example.com,(618)-764-5262
+SVC0042,Small Business,Industrial Waste,Houston,Metal,854.92,2024-02-11,99,2,CUST0042,Jane Williams,michael.williams@example.com,(541)-738-2307
+SVC0043,Enterprise,Residential Pickup,Seattle,Metal,959.87,2024-02-12,23,4,CUST0043,zenitraM semaJ,jane.johnson@example.com,(354)-245-4798
+SVC0044,Enterprise,Industrial Waste,Miami,Paper,193.81,2024-02-13,133,3,CUST0044,James Garcia,linda.davis@example.com,
+SVC0045,Small Business,Commercial Pickup,Houston,Glass,661.76,2024-02-14,130,5,CUST0045,Robert Williams,james.rodriguez@example.com,(994)-394-2453
+SVC0046,Residential,Recycling,Seattle,Organic,504.18,2024-02-15,140,3,CUST0046,James Johnson,emily.garcia@example.com,
+SVC0047,Government,Industrial Waste,Miami,Metal,406.87,2024-02-16,99,3,CUST0047,James Brown,moc.elpmaxe@nworb.haras,(224)-558-1938
+SVC0048,Government,Commercial Pickup,Seattle,Metal,120.91,2024-02-17,28,1,CUST0048,John Miller,patricia.martinez@example.com,(946)-192-4734
+SVC0049,Residential,Commercial Pickup,Boston,Metal,465.52,2024-02-18,108,2,CUST0049,Michael Davis,james.rodriguez@example.com,(702)-460-1911
+SVC0050,Small Business,Bulk Waste,Miami,Plastic,729.97,2024-02-19,83,4,CUST0050,David Jones,sarah.brown@example.com,6638-159-)025(
+SVC0051,Small Business,Commercial Pickup,Houston,Paper,159.37,2024-02-20,40,4,CUST0051,John Miller,james.rodriguez@example.com,2465-759-)132(
+SVC0052,Government,Recycling,Miami,Metal,201.6,2024-02-21,58,2,CUST0052,Robert Brown,,(778)-110-4873
+SVC0053,Residential,Commercial Pickup,Houston,Plastic,939.08,2024-02-22,111,5,CUST0053,Linda Brown,michael.williams@example.com,6196-484-)201(
+SVC0054,Enterprise,Residential Pickup,Boston,Metal,231.87,2024-02-23,95,2,CUST0054,John Brown,david.jones@example.com,(396)-907-3088
+SVC0055,Enterprise,Recycling,Houston,Glass,766.38,2024-02-24,138,2,CUST0055,Linda Rodriguez,linda.davis@example.com,(411)-164-3965
+SVC0056,Government,Residential Pickup,Seattle,Metal,593.69,2024-02-25,49,4,CUST0056,David Jones,john.smith@example.com,
+SVC0057,Residential,Industrial Waste,Denver,Glass,857.72,2024-02-26,122,4,CUST0057,James Johnson,robert.miller@example.com,(908)-911-8474
+SVC0058,Small Business,Bulk Waste,Miami,Paper,471.87,2024-02-27,128,2,CUST0058,Robert Rodriguez,moc.elpmaxe@nworb.haras,(210)-886-3085
+SVC0059,Enterprise,Recycling,Chicago,Organic,817.26,2024-02-28,41,4,CUST0059,James Martinez,sarah.brown@example.com,(163)-460-2652
+SVC0060,Enterprise,Industrial Waste,Houston,Mixed Waste,698.01,2024-02-29,127,3,CUST0060,smailliW treboR,emily.garcia@example.com,(207)-778-9043
+SVC0061,Government,Recycling,New York,Paper,981.32,2024-03-01,30,4,CUST0061,Patricia Rodriguez,sarah.brown@example.com,(224)-558-1938
+SVC0062,Government,Residential Pickup,Chicago,Organic,310.76,2024-03-02,36,4,CUST0062,Jane Johnson,jane.johnson@example.com,(238)-386-9945
+SVC0063,Government,Commercial Pickup,Seattle,Mixed Waste,465.83,2024-03-03,26,1,CUST0063,Linda Garcia,patricia.martinez@example.com,(556)-377-9286
+SVC0064,Small Business,Residential Pickup,Boston,Mixed Waste,940.63,2024-03-04,108,3,CUST0064,Patricia Garcia,robert.miller@example.com,(334)-892-5751
+SVC0065,Residential,Residential Pickup,Chicago,Organic,437.49,2024-03-05,30,2,CUST0065,Patricia Smith,david.jones@example.com,(349)-929-1969
+SVC0066,Residential,Residential Pickup,Chicago,Plastic,543.74,2024-03-06,154,4,CUST0066,Sarah Miller,jane.johnson@example.com,(767)-610-5622
+SVC0067,Small Business,Residential Pickup,Boston,Organic,920.87,2024-03-07,124,5,CUST0067,Emily Jones,patricia.martinez@example.com,(500)-551-4573
+SVC0068,Residential,Recycling,Denver,Glass,490.49,2024-03-08,32,4,CUST0068,Emily Martinez,david.jones@example.com,3927-456-)868(
+SVC0069,Enterprise,Residential Pickup,Denver,Mixed Waste,76.51,2024-03-09,107,4,CUST0069,Patricia Smith,patricia.martinez@example.com,(511)-803-5686
+SVC0070,Residential,Bulk Waste,Boston,Metal,503.36,2024-03-10,82,3,CUST0070,David Smith,jane.johnson@example.com,(160)-402-5917
+SVC0071,Residential,Industrial Waste,Los Angeles,Organic,733.26,2024-03-11,108,1,CUST0071,Patricia Smith,patricia.martinez@example.com,(192)-593-5177
+SVC0072,Residential,Residential Pickup,Miami,Paper,753.1,2024-03-12,69,5,CUST0072,Sarah Garcia,linda.davis@example.com,(187)-538-9398
+SVC0073,Enterprise,Residential Pickup,New York,Glass,200.38,2024-03-13,170,1,CUST0073,John Smith,michael.williams@example.com,(430)-671-9260
+SVC0074,Enterprise,Residential Pickup,Seattle,Glass,362.67,2024-03-14,149,5,CUST0074,Jane Garcia,emily.garcia@example.com,(651)-646-2848
+SVC0075,Small Business,Recycling,Denver,Metal,710.89,2024-03-15,159,3,CUST0075,,patricia.martinez@example.com,(962)-795-9538
+SVC0076,Small Business,Commercial Pickup,Boston,Plastic,693.43,2024-03-16,52,1,CUST0076,Emily Johnson,david.jones@example.com,(480)-592-7634
+SVC0077,Residential,Residential Pickup,Denver,Glass,878.6,2024-03-17,73,5,CUST0077,John Rodriguez,emily.garcia@example.com,(656)-576-1691
+SVC0078,Small Business,Recycling,New York,Organic,184.58,2024-03-18,113,3,CUST0078,Sarah Rodriguez,james.rodriguez@example.com,(767)-610-5622
+SVC0079,Small Business,Bulk Waste,Los Angeles,Mixed Waste,711.16,2024/03/19,111,5,CUST0079,,david.jones@example.com,
+SVC0080,Government,Bulk Waste,Seattle,Plastic,742.54,2024-03-20,69,5,CUST0080,Sarah Martinez,moc.elpmaxe@zeugirdor.semaj,2917-458-)352(
+SVC0081,Small Business,Bulk Waste,Boston,Glass,238.35,2024-03-21,95,2,CUST0081,Robert Davis,jane.johnson@example.com,(407)-240-8558
+SVC0082,Enterprise,Bulk Waste,Denver,Mixed Waste,229.17,2024-03-22,118,1,CUST0082,Robert Williams,sarah.brown@example.com,(354)-218-6254
+SVC0083,Enterprise,Residential Pickup,New York,Plastic,961.43,2024-03-23,46,3,CUST0083,Sarah Miller,robert.miller@example.com,(881)-222-3024
+SVC0084,Residential,Recycling,New York,Metal,830.64,2024-03-24,34,4,CUST0084,nosnhoJ haraS,james.rodriguez@example.com,(772)-333-1512
+SVC0085,Government,Residential Pickup,Miami,Metal,458.03,2024-03-25,115,4,CUST0085,htimS treboR,linda.davis@example.com,(552)-263-2321
+SVC0086,Residential,Residential Pickup,Denver,Organic,791.51,2024-03-26,95,4,CUST0086,Michael Smith,moc.elpmaxe@smailliw.leahcim,9855-527-)157(
+SVC0087,Residential,Bulk Waste,New York,Glass,499.79,2024-03-27,130,4,CUST0087,John Davis,michael.williams@example.com,(674)-532-2519
+SVC0088,Government,Commercial Pickup,Los Angeles,Metal,779.73,2024-03-28,103,5,CUST0088,Jane Martinez,michael.williams@example.com,(338)-250-4536
+SVC0089,Government,Commercial Pickup,Los Angeles,Metal,370.27,2024-03-29,42,1,CUST0089,David Rodriguez,jane.johnson@example.com,(925)-207-6055
+SVC0090,Residential,Residential Pickup,Boston,Organic,644.84,2024-03-30,91,2,CUST0090,Sarah Martinez,james.rodriguez@example.com,(430)-671-9260
+SVC0091,Residential,Bulk Waste,Los Angeles,Plastic,549.99,2024-03-31,94,4,CUST0091,John Davis,linda.davis@example.com,(397)-744-2013
+SVC0092,Residential,Commercial Pickup,Houston,Paper,877.79,2024-04-01,134,4,CUST0092,Patricia Jones,emily.garcia@example.com,(338)-250-4536
+SVC0093,Government,Industrial Waste,Miami,Metal,873.88,2024-04-02,39,5,CUST0093,,james.rodriguez@example.com,(597)-334-8384
+SVC0094,Small Business,Industrial Waste,New York,Metal,392.49,2024-04-03,46,4,CUST0094,Michael Smith,emily.garcia@example.com,(224)-558-1938
+SVC0095,Enterprise,Industrial Waste,Miami,Mixed Waste,952.1,2024-04-04,76,5,CUST0095,John Brown,linda.davis@example.com,(338)-988-9184
+SVC0096,Government,Industrial Waste,Boston,Organic,637.31,2024-04-05,80,4,CUST0096,Emily Rodriguez,james.rodriguez@example.com,(806)-550-4869
+SVC0097,Residential,Residential Pickup,Los Angeles,Paper,267.64,2024-04-06,27,1,CUST0097,Jane Johnson,james.rodriguez@example.com,
+SVC0098,Enterprise,Commercial Pickup,Houston,Mixed Waste,695.92,2024-04-07,158,2,CUST0098,John Davis,linda.davis@example.com,(769)-265-4147
+SVC0099,Small Business,Industrial Waste,Los Angeles,Plastic,428.32,2024-04-08,104,4,CUST0099,James Garcia,robert.miller@example.com,(547)-915-3067
+SVC0100,Small Business,Industrial Waste,Seattle,Paper,703.97,2024-04-09,84,4,CUST0100,Michael Rodriguez,patricia.martinez@example.com,(398)-322-9809
+SVC0101,Small Business,Residential Pickup,Boston,Plastic,171.56,2024-04-10,157,1,CUST0101,Emily Johnson,john.smith@example.com,(673)-767-2535
+SVC0102,Residential,Bulk Waste,Chicago,Mixed Waste,798.65,2024-04-11,93,1,CUST0102,,patricia.martinez@example.com,(365)-922-8058
+SVC0103,Enterprise,Recycling,New York,Plastic,311.13,2024-04-12,65,1,CUST0103,Patricia Smith,jane.johnson@example.com,(235)-288-1171
+SVC0104,Residential,Residential Pickup,Miami,Mixed Waste,72.41,2024-04-13,123,2,CUST0104,David Rodriguez,michael.williams@example.com,(227)-231-6802
+SVC0105,Enterprise,Commercial Pickup,Houston,Glass,457.96,2024-04-14,34,3,CUST0105,John Martinez,michael.williams@example.com,
+SVC0106,Government,Residential Pickup,Houston,Organic,272.1,2024-04-15,25,2,CUST0106,Michael Brown,emily.garcia@example.com,(359)-916-4837
+SVC0107,Residential,Commercial Pickup,Los Angeles,Mixed Waste,666.89,2024-04-16,30,4,CUST0107,Michael Garcia,linda.davis@example.com,
+SVC0108,Enterprise,Industrial Waste,Seattle,Paper,605.78,2024/04/17,43,4,CUST0108,David Miller,sarah.brown@example.com,(231)-546-1077
+SVC0109,Residential,Recycling,Denver,Glass,689.5,2024-04-18,160,4,CUST0109,Robert Garcia,john.smith@example.com,(160)-402-5917
+SVC0110,Government,Residential Pickup,Boston,Metal,640.17,2024-04-19,25,5,CUST0110,Emily Williams,emily.garcia@example.com,(673)-767-2535
+SVC0111,Enterprise,Commercial Pickup,Los Angeles,Plastic,412.45,2024-04-20,64,1,CUST0111,Emily Garcia,jane.johnson@example.com,(111)-235-2126
+SVC0112,Enterprise,Commercial Pickup,Los Angeles,Plastic,196.35,2024-04-21,139,1,CUST0112,Emily Miller,linda.davis@example.com,(235)-374-5034
+SVC0113,Small Business,Commercial Pickup,Los Angeles,Mixed Waste,673.92,2024-04-22,169,2,CUST0113,Emily Brown,david.jones@example.com,(734)-900-8194
+SVC0114,Government,Recycling,Los Angeles,Mixed Waste,507.79,2024-04-23,86,2,CUST0114,David Rodriguez,david.jones@example.com,(168)-126-7664
+SVC0115,Small Business,Bulk Waste,Houston,Glass,252.1,2024-04-24,57,3,CUST0115,Linda Garcia,john.smith@example.com,(825)-636-3561
+SVC0116,Enterprise,Industrial Waste,Miami,Metal,853.57,2024-04-25,178,2,CUST0116,Patricia Garcia,michael.williams@example.com,(235)-337-5226
+SVC0117,Residential,Commercial Pickup,Denver,Paper,256.59,2024-04-26,160,2,CUST0117,James Williams,emily.garcia@example.com,(968)-726-1113
+SVC0118,Residential,Bulk Waste,Boston,Plastic,272.74,2024-04-27,80,5,CUST0118,Sarah Davis,moc.elpmaxe@aicrag.ylime,(481)-320-8455
+SVC0119,Residential,Residential Pickup,Chicago,Organic,735.55,2024-04-28,108,4,CUST0119,Robert Smith,james.rodriguez@example.com,(192)-593-5177
+SVC0120,Government,Recycling,New York,Metal,424.54,2024-04-29,129,4,CUST0120,Sarah Smith,,(533)-140-6699
+SVC0121,Residential,Bulk Waste,New York,Metal,62.85,2024-04-30,177,1,CUST0121,John Rodriguez,sarah.brown@example.com,(338)-988-9184
+SVC0122,Government,Recycling,New York,Plastic,388.87,2024-05-01,71,4,CUST0122,Emily Davis,sarah.brown@example.com,(174)-496-8225
+SVC0123,Small Business,Residential Pickup,New York,Organic,474.14,2024-05-02,135,4,CUST0123,Emily Miller,michael.williams@example.com,(634)-622-9051
+SVC0124,Enterprise,Residential Pickup,New York,Mixed Waste,665.59,2024-05-03,50,5,CUST0124,Patricia Williams,michael.williams@example.com,(376)-447-9270
+SVC0125,Enterprise,Industrial Waste,Chicago,Plastic,566.7,2024-05-04,163,3,CUST0125,Jane Garcia,john.smith@example.com,(494)-812-5771
+SVC0126,Government,Industrial Waste,Miami,Organic,637.98,2024-05-05,123,4,CUST0126,James Smith,sarah.brown@example.com,(730)-597-5532
+SVC0127,Small Business,Recycling,Boston,Glass,880.33,2024-05-06,134,4,CUST0127,Patricia Johnson,linda.davis@example.com,(778)-110-4873
+SVC0128,Residential,Recycling,Chicago,Metal,888.2,2024-05-07,91,1,CUST0128,Emily Garcia,patricia.martinez@example.com,(453)-680-5981
+SVC0129,Government,Recycling,Seattle,Paper,287.17,2024-05-08,126,2,CUST0129,John Martinez,,(806)-550-4869
+SVC0130,Residential,Bulk Waste,Miami,Plastic,140.87,2024-05-09,55,3,CUST0130,Robert Garcia,david.jones@example.com,(552)-576-5734
+SVC0131,Government,Recycling,Houston,Organic,720.67,2024-05-10,161,2,CUST0131,David Garcia,moc.elpmaxe@senoj.divad,
+SVC0132,Government,Commercial Pickup,New York,Mixed Waste,124.88,2024-05-11,170,1,CUST0132,,,(210)-394-6863
+SVC0133,Enterprise,Commercial Pickup,Boston,Mixed Waste,581.05,2024-05-12,87,5,CUST0133,Jane Johnson,james.rodriguez@example.com,(443)-962-8754
+SVC0134,Residential,Residential Pickup,Chicago,Glass,726.42,2024-05-13,129,4,CUST0134,Sarah Johnson,jane.johnson@example.com,(664)-693-6164
+SVC0135,Residential,Industrial Waste,Los Angeles,Mixed Waste,444.08,2024-05-14,91,3,CUST0135,Emily Miller,sarah.brown@example.com,(584)-968-3360
+SVC0136,Small Business,Commercial Pickup,Seattle,Organic,383.01,2024-05-15,163,3,CUST0136,Sarah Garcia,emily.garcia@example.com,(864)-946-2064
+SVC0137,Enterprise,Industrial Waste,Los Angeles,Plastic,898.99,2024-05-16,72,3,CUST0137,John Johnson,james.rodriguez@example.com,(494)-812-5771
+SVC0138,Small Business,Industrial Waste,Boston,Metal,645.34,2024-05-17,117,3,CUST0138,Michael Brown,james.rodriguez@example.com,(215)-684-2645
+SVC0139,Small Business,Industrial Waste,Denver,Mixed Waste,452.56,2024-05-18,98,2,CUST0139,John Jones,john.smith@example.com,(111)-235-2126
+SVC0140,Small Business,Commercial Pickup,Los Angeles,Plastic,420.92,2024-05-19,23,3,CUST0140,James Johnson,robert.miller@example.com,(869)-511-2830
+SVC0141,Government,Commercial Pickup,Houston,Paper,856.96,2024-05-20,68,1,CUST0141,,linda.davis@example.com,(215)-684-2645
+SVC0142,Government,Bulk Waste,Denver,Mixed Waste,58.46,2024-05-21,52,3,CUST0142,,emily.garcia@example.com,(110)-277-5714
+SVC0143,Residential,Recycling,Denver,Plastic,507.88,2024-05-22,149,5,CUST0143,John Smith,michael.williams@example.com,(875)-838-9862
+SVC0144,Government,Bulk Waste,Los Angeles,Paper,256.39,2024-05-23,74,3,CUST0144,Jane Jones,sarah.brown@example.com,(156)-178-6194
+SVC0145,Residential,Recycling,Houston,Organic,537.87,2024-05-24,118,4,CUST0145,Jane Brown,james.rodriguez@example.com,(322)-306-2268
+SVC0146,Enterprise,Industrial Waste,Chicago,Glass,72.15,2024-05-25,139,5,CUST0146,John Johnson,john.smith@example.com,(397)-744-2013
+SVC0147,Residential,Residential Pickup,Los Angeles,Mixed Waste,130.13,2024-05-26,41,2,CUST0147,Patricia Garcia,linda.davis@example.com,(852)-882-1288
+SVC0148,Enterprise,Recycling,Miami,Mixed Waste,847.68,2024/05/27,146,4,CUST0148,,james.rodriguez@example.com,(699)-909-8715
+SVC0149,Enterprise,Residential Pickup,Miami,Mixed Waste,80.05,2024/05/28,84,5,CUST0149,James Davis,linda.davis@example.com,1509-226-)436(
+SVC0150,Enterprise,Residential Pickup,New York,Plastic,941.75,2024-05-29,136,4,CUST0150,Patricia Smith,moc.elpmaxe@sivad.adnil,(952)-781-9726
+SVC0151,Small Business,Bulk Waste,Chicago,Organic,772.17,2024-05-30,58,4,CUST0151,Sarah Rodriguez,james.rodriguez@example.com,(891)-295-4172
+SVC0152,Enterprise,Industrial Waste,Los Angeles,Mixed Waste,439.03,2024-05-31,144,3,CUST0152,Sarah Garcia,david.jones@example.com,(925)-207-6055
+SVC0153,Enterprise,Bulk Waste,Denver,Glass,805.71,2024-06-01,173,2,CUST0153,David Davis,moc.elpmaxe@nosnhoj.enaj,(565)-143-7262
+SVC0154,Small Business,Recycling,New York,Metal,649.26,2024-06-02,129,4,CUST0154,sivaD ylimE,patricia.martinez@example.com,(656)-576-1691
+SVC0155,Residential,Residential Pickup,Los Angeles,Plastic,440.33,2024-06-03,132,2,CUST0155,Robert Brown,james.rodriguez@example.com,(968)-726-1113
+SVC0156,Residential,Recycling,Seattle,Mixed Waste,133.41,2024-06-04,104,3,CUST0156,Patricia Johnson,moc.elpmaxe@zenitram.aicirtap,5038-716-)991(
+SVC0157,Residential,Industrial Waste,Denver,Organic,158.29,2024-06-05,155,3,CUST0157,Michael Williams,emily.garcia@example.com,(801)-109-1114
+SVC0158,Residential,Recycling,Chicago,Glass,379.96,2024-06-06,177,1,CUST0158,,patricia.martinez@example.com,(657)-261-6855
+SVC0159,Government,Bulk Waste,Miami,Metal,503.3,2024-06-07,27,5,CUST0159,John Brown,sarah.brown@example.com,(792)-331-5450
+SVC0160,Small Business,Bulk Waste,Boston,Paper,448.09,2024-06-08,61,1,CUST0160,Linda Rodriguez,david.jones@example.com,(218)-972-5173
+SVC0161,Enterprise,Residential Pickup,Denver,Metal,662.3,2024-06-09,129,3,CUST0161,Sarah Johnson,robert.miller@example.com,(891)-295-4172
+SVC0162,Government,Residential Pickup,Chicago,Organic,76.68,2024-06-10,175,5,CUST0162,Emily Smith,james.rodriguez@example.com,(615)-458-2262
+SVC0163,Government,Bulk Waste,Miami,Mixed Waste,482.71,2024-06-11,176,2,CUST0163,Michael Brown,david.jones@example.com,(750)-793-3779
+SVC0164,Residential,Bulk Waste,Chicago,Paper,888.14,2024-06-12,86,2,CUST0164,Robert Martinez,moc.elpmaxe@rellim.trebor,(499)-263-5579
+SVC0165,Small Business,Recycling,Miami,Glass,320.02,2024-06-13,112,5,CUST0165,Jane Smith,linda.davis@example.com,(163)-460-2652
+SVC0166,Government,Residential Pickup,Denver,Metal,714.34,2024-06-14,98,3,CUST0166,sivaD treboR,patricia.martinez@example.com,
+SVC0167,Small Business,Recycling,New York,Organic,798.72,2024-06-15,116,3,CUST0167,Linda Garcia,john.smith@example.com,(271)-892-5910
+SVC0168,Enterprise,Commercial Pickup,Miami,Organic,148.42,2024-06-16,15,1,CUST0168,Patricia Martinez,robert.miller@example.com,
+SVC0169,Small Business,Residential Pickup,New York,Glass,129.93,2024-06-17,71,4,CUST0169,Patricia Miller,john.smith@example.com,(430)-671-9260
+SVC0170,Enterprise,Recycling,Los Angeles,Paper,795.71,2024-06-18,176,2,CUST0170,Michael Garcia,jane.johnson@example.com,(558)-925-5381
+SVC0171,Government,Recycling,New York,Plastic,234.23,2024-06-19,161,3,CUST0171,Patricia Jones,john.smith@example.com,(120)-439-3246
+SVC0172,Enterprise,Recycling,Seattle,Mixed Waste,269.06,2024-06-20,145,3,CUST0172,,john.smith@example.com,(552)-576-5734
+SVC0173,Small Business,Bulk Waste,Chicago,Mixed Waste,302.26,2024/06/21,143,3,CUST0173,Robert Davis,linda.davis@example.com,(500)-551-4573
+SVC0174,Residential,Industrial Waste,Boston,Glass,403.37,2024/06/22,64,2,CUST0174,Jane Johnson,emily.garcia@example.com,(674)-532-2519
+SVC0175,Residential,Industrial Waste,Denver,Mixed Waste,306.91,2024-06-23,87,4,CUST0175,David Williams,james.rodriguez@example.com,(235)-374-5034
+SVC0176,Enterprise,Residential Pickup,New York,Paper,98.97,2024-06-24,131,5,CUST0176,Linda Williams,jane.johnson@example.com,(338)-988-9184
+SVC0177,Small Business,Industrial Waste,Houston,Glass,168.51,2024-06-25,108,1,CUST0177,David Davis,michael.williams@example.com,(869)-511-2830
+SVC0178,Residential,Recycling,Miami,Mixed Waste,740.36,2024-06-26,49,5,CUST0178,Robert Johnson,james.rodriguez@example.com,(908)-911-8474
+SVC0179,Residential,Residential Pickup,Chicago,Metal,961.86,2024-06-27,176,1,CUST0179,Emily Davis,sarah.brown@example.com,(153)-610-7158
+SVC0180,Small Business,Industrial Waste,New York,Paper,612.66,2024-06-28,25,5,CUST0180,Jane Miller,linda.davis@example.com,(808)-401-7835
+SVC0181,Residential,Commercial Pickup,Denver,Plastic,883.33,2024-06-29,130,1,CUST0181,Linda Smith,james.rodriguez@example.com,(986)-517-7678
+SVC0182,Enterprise,Industrial Waste,Los Angeles,Plastic,106.95,2024/06/30,57,1,CUST0182,Emily Miller,michael.williams@example.com,(512)-584-9643
+SVC0183,Enterprise,Bulk Waste,New York,Organic,833.28,2024-07-01,169,4,CUST0183,Linda Brown,moc.elpmaxe@sivad.adnil,(994)-394-2453
+SVC0184,Enterprise,Residential Pickup,Boston,Plastic,368.74,2024-07-02,74,3,CUST0184,James Johnson,moc.elpmaxe@zenitram.aicirtap,(879)-529-3479
+SVC0185,Residential,Bulk Waste,Seattle,Organic,479.58,2024-07-03,137,4,CUST0185,Robert Brown,jane.johnson@example.com,(443)-962-8754
+SVC0186,Government,Residential Pickup,Boston,Organic,776.96,2024-07-04,63,5,CUST0186,Robert Davis,david.jones@example.com,(623)-190-9530
+SVC0187,Government,Bulk Waste,Houston,Mixed Waste,784.78,2024-07-05,150,1,CUST0187,Michael Rodriguez,david.jones@example.com,(160)-402-5917
+SVC0188,Small Business,Bulk Waste,Miami,Paper,502.55,2024-07-06,135,4,CUST0188,David Williams,patricia.martinez@example.com,(623)-190-9530
+SVC0189,Enterprise,Bulk Waste,Seattle,Plastic,870.17,2024-07-07,142,2,CUST0189,Sarah Williams,linda.davis@example.com,(778)-110-4873
+SVC0190,Enterprise,Residential Pickup,Chicago,Metal,385.9,2024-07-08,70,1,CUST0190,Linda Miller,linda.davis@example.com,(253)-854-7192
+SVC0191,Residential,Residential Pickup,Chicago,Metal,744.09,2024-07-09,85,4,CUST0191,John Davis,james.rodriguez@example.com,(673)-767-2535
+SVC0192,Government,Industrial Waste,Miami,Plastic,523.64,2024-07-10,86,4,CUST0192,Michael Williams,robert.miller@example.com,(231)-957-5642
+SVC0193,Residential,Commercial Pickup,Denver,Glass,64.61,2024-07-11,81,3,CUST0193,Jane Brown,emily.garcia@example.com,(209)-308-8117
+SVC0194,Government,Commercial Pickup,Miami,Glass,690.93,2024-07-12,15,5,CUST0194,,linda.davis@example.com,(754)-402-2980
+SVC0195,Enterprise,Commercial Pickup,Chicago,Plastic,498.74,2024-07-13,52,1,CUST0195,John Rodriguez,patricia.martinez@example.com,(767)-610-5622
+SVC0196,Small Business,Recycling,New York,Mixed Waste,856.63,2024-07-14,61,4,CUST0196,Sarah Jones,david.jones@example.com,(334)-892-5751
+SVC0197,Residential,Commercial Pickup,Boston,Glass,640.82,2024-07-15,60,1,CUST0197,Patricia Smith,david.jones@example.com,(121)-549-6212
+SVC0198,Enterprise,Recycling,New York,Metal,149.07,2024-07-16,16,2,CUST0198,Jane Johnson,moc.elpmaxe@nosnhoj.enaj,(160)-402-5917
+SVC0199,Government,Industrial Waste,Chicago,Metal,582.93,2024/07/17,110,1,CUST0199,Jane Jones,david.jones@example.com,(354)-544-6712
+SVC0200,Small Business,Commercial Pickup,Los Angeles,Organic,303.22,2024-07-18,153,3,CUST0200,James Davis,emily.garcia@example.com,(174)-496-8225
